@@ -1,0 +1,82 @@
+{
+	"extracts": [
+		{
+			"output": "Calgary.osm.pbf",
+			"output_format": ".pbf",
+			"polygon": {
+				"file_name": "./inputs/Calgary.geojson"
+			}
+		},
+		{
+			"output": "Edmonton.osm.pbf",
+			"output_format": ".pbf",
+			"polygon": {
+				"file_name": "./inputs/Edmonton.geojson"
+			}
+		},
+		{
+			"output": "Hamilton.osm.pbf",
+			"output_format": ".pbf",
+			"polygon": {
+				"file_name": "./inputs/Hamilton.geojson"
+			}
+		},
+		{
+			"output": "Kitchener-Cambridge-Waterloo.osm.pbf",
+			"output_format": ".pbf",
+			"polygon": {
+				"file_name": "./inputs/Kitchener-Cambridge-Waterloo.geojson"
+			}
+		},
+		{
+			"output": "London.osm.pbf",
+			"output_format": ".pbf",
+			"polygon": {
+				"file_name": "./inputs/London.geojson"
+			}
+		},
+		{
+			"output": "Montreal.osm.pbf",
+			"output_format": ".pbf",
+			"polygon": {
+				"file_name": "./inputs/Montreal.geojson"
+			}
+		},
+		{
+			"output": "Ottawa-Gatineau.osm.pbf",
+			"output_format": ".pbf",
+			"polygon": {
+				"file_name": "./inputs/Ottawa-Gatineau.geojson"
+			}
+		},
+		{
+			"output": "Quebec City.osm.pbf",
+			"output_format": ".pbf",
+			"polygon": {
+				"file_name": "./inputs/Quebec City.geojson"
+			}
+		},
+		{
+			"output": "Toronto.osm.pbf",
+			"output_format": ".pbf",
+			"polygon": {
+				"file_name": "./inputs/Toronto.geojson"
+			}
+		},
+		{
+			"output": "Vancouver.osm.pbf",
+			"output_format": ".pbf",
+			"polygon": {
+				"file_name": "./inputs/Vancouver.geojson"
+			}
+		},
+		{
+			"output": "Winnipeg.osm.pbf",
+			"output_format": ".pbf",
+			"polygon": {
+				"file_name": "./inputs/Winnipeg.geojson"
+			}
+		}
+	],
+	"directory": "/Users/christianbeiwinkel/Documents/internship/dev/gisops/magna/extracts"
+}

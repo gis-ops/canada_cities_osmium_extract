@@ -1,0 +1,5 @@
+*.osm.pbf
+/extracts
+.DS_Store
+/elevation
+*.qgz
