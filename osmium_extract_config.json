@@ -1,82 +1,82 @@
 {
 	"extracts": [
 		{
-			"output": "Calgary.osm.pbf",
+			"output": "calgary.osm.pbf",
 			"output_format": ".pbf",
 			"polygon": {
 				"file_name": "./inputs/Calgary.geojson"
 			}
 		},
 		{
-			"output": "Edmonton.osm.pbf",
+			"output": "edmonton.osm.pbf",
 			"output_format": ".pbf",
 			"polygon": {
 				"file_name": "./inputs/Edmonton.geojson"
 			}
 		},
 		{
-			"output": "Hamilton.osm.pbf",
+			"output": "hamilton.osm.pbf",
 			"output_format": ".pbf",
 			"polygon": {
 				"file_name": "./inputs/Hamilton.geojson"
 			}
 		},
 		{
-			"output": "Kitchener-Cambridge-Waterloo.osm.pbf",
+			"output": "kitchener-cambridge-waterloo.osm.pbf",
 			"output_format": ".pbf",
 			"polygon": {
 				"file_name": "./inputs/Kitchener-Cambridge-Waterloo.geojson"
 			}
 		},
 		{
-			"output": "London.osm.pbf",
+			"output": "london.osm.pbf",
 			"output_format": ".pbf",
 			"polygon": {
 				"file_name": "./inputs/London.geojson"
 			}
 		},
 		{
-			"output": "Montreal.osm.pbf",
+			"output": "montreal.osm.pbf",
 			"output_format": ".pbf",
 			"polygon": {
 				"file_name": "./inputs/Montreal.geojson"
 			}
 		},
 		{
-			"output": "Ottawa-Gatineau.osm.pbf",
+			"output": "ottawa-gatineau.osm.pbf",
 			"output_format": ".pbf",
 			"polygon": {
 				"file_name": "./inputs/Ottawa-Gatineau.geojson"
 			}
 		},
 		{
-			"output": "Quebec City.osm.pbf",
+			"output": "quebec-city.osm.pbf",
 			"output_format": ".pbf",
 			"polygon": {
 				"file_name": "./inputs/Quebec City.geojson"
 			}
 		},
 		{
-			"output": "Toronto.osm.pbf",
+			"output": "toronto.osm.pbf",
 			"output_format": ".pbf",
 			"polygon": {
 				"file_name": "./inputs/Toronto.geojson"
 			}
 		},
 		{
-			"output": "Vancouver.osm.pbf",
+			"output": "vancouver.osm.pbf",
 			"output_format": ".pbf",
 			"polygon": {
 				"file_name": "./inputs/Vancouver.geojson"
 			}
 		},
 		{
-			"output": "Winnipeg.osm.pbf",
+			"output": "winnipeg.osm.pbf",
 			"output_format": ".pbf",
 			"polygon": {
 				"file_name": "./inputs/Winnipeg.geojson"
 			}
 		}
 	],
-	"directory": "/Users/christianbeiwinkel/Documents/internship/dev/gisops/magna/extracts"
+	"directory": "/custom_files"
 }
